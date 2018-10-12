@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Weather Bot's Botpage.
 
-You can use the [editor on GitHub](https://github.com/stipxx/testhub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+this is a WIP site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+created by stip.
+
 
 ### Markdown
 
